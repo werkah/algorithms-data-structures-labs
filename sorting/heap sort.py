@@ -1,5 +1,3 @@
-#Weronika Hilaszek
-
 def max_heapify(a,n,i):
     largest=i
     r=2*i+2

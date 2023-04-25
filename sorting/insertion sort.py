@@ -1,5 +1,3 @@
-#Weronika Hilaszek
-
 def insertionsort(a):
     for j in range(1, len(a)):
         key=a[j]

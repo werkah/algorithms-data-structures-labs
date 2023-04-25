@@ -1,5 +1,3 @@
-#Weronika Hilaszek
-
 def merge(a,l,q,r):
     n1=q-l+1
     n2=r-q

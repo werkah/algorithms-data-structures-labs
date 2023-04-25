@@ -1,5 +1,3 @@
-#Weronika Hilaszek
-
 def binarysearch(x,a):
     l=0
     r=len(a)-1
@@ -12,9 +10,6 @@ def binarysearch(x,a):
         else:
             return mid
     return ("nie ma tej liczby")
-
-
-#x to el wyszukiwany
 
 tab=[0,1,2,4,5,8,20,23,43]
 print("indeks szukanego elementu to:")

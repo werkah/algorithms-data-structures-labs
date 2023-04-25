@@ -1,5 +1,3 @@
-#Weronika Hilaszek
-
 def insertionsort(bucket):
     for i in range (1,len(bucket)):
         var=bucket[i]

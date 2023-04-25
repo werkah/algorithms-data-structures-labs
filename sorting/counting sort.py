@@ -1,5 +1,3 @@
-#Weronika Hilaszek
-
 def countingsort(a):
     n=len(a)
     b=[0]*n

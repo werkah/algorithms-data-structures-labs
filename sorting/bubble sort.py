@@ -1,5 +1,3 @@
-#Weronika Hilaszek
-
 def bubblesort(a):
     for i in range(len(a)):
         for j in range(0,len(a)-i-1):

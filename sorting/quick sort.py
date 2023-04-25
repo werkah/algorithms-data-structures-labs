@@ -1,5 +1,3 @@
-#Weronika Hilaszek
-
 def partition(a,l,r):
     pivot=a[r]
     i=l-1

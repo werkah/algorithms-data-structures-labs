@@ -1,5 +1,3 @@
-#Weronika Hilaszek
-
 def selectionsort(a):
     for i in range(len(a)):
         min=i
